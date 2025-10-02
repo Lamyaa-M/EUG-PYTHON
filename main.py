@@ -69,3 +69,4 @@ first_three_fruits = favorite_fruits[:3]
 # print(first_three_fruits)
 print("Original list:", favorite_fruits)
 print("New list (first three fruits):", first_three_fruits)
+print("New list (first three fruits):", first_three_fruits)
